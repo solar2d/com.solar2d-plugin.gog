@@ -5,3 +5,7 @@ plugins/*.tgz
 build/
 *xcuser*
 BuiltPlugin/
+.vs/
+build/
+out/
+*xcuser*
